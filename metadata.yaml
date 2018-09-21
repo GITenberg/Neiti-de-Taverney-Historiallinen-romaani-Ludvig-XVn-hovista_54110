@@ -1,0 +1,39 @@
+_repo: Neiti-de-Taverney-Historiallinen-romaani-Ludvig-XVn-hovista_54110
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - père, Alexandre Dumas
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2017-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54110'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis XV, 1715-1774 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Cagliostro, Alessandro, conte di, 1743-1795 -- Fiction'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+- GITenberg
+title: 'Neiti de Taverney: Historiallinen romaani Ludvig XV:n hovista'
+url: http://www.gutenberg.org/ebooks/54110
